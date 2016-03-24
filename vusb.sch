@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Thu Mar 24 00:16:38 2016
+EESchema Schematic File Version 2  date Thu Mar 24 00:27:01 2016
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -44,6 +44,15 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
+$Comp
+L 68000D U?
+U 1 1 56F396BE
+P 1800 5200
+F 0 "U?" H 1800 5300 60  0000 C CNN
+F 1 "68000D" H 1800 5050 60  0000 C CNN
+	1    1800 5200
+	1    0    0    -1  
+$EndComp
 $Comp
 L CONN_8 P?
 U 1 1 56F39447
